@@ -1,6 +1,6 @@
 # Traffic_Signs_Project
 
-<h2> TDT4265 - Computer Vision - Project <h2>
+<h2> TDT4265 - Computer Vision - Project </h2>
 
 <h3> Group 34: Cohal Alexandru, He Yu </h3>
 
